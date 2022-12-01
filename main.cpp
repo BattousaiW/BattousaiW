@@ -1,4 +1,4 @@
-//simple donation and net gross calculator using file handling
+
 #include <iostream>
 #include <fstream>
 #include <iomanip>
